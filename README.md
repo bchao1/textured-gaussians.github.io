@@ -1,4 +1,4 @@
-# Nerfies
+# Textured Gaussians for Enhanced 3D Appearance Modeling
 
 This is the repository that contains the source code for the **Textured Gaussians for Enhanced 3D Appearance Modeling** [website]().
 
